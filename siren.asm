@@ -1,3 +1,4 @@
+; Discussion http://www.microchip.com/forums/m937760.aspx
 ;-----------------------------------------------------------------------------
 ;LABLE          OPCODE          OPERAND         COMMENTS
                 list            R=DEC           ;Set radix to decimal
